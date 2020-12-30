@@ -1,6 +1,6 @@
 # Contributors
 
-
+- [Utkarsh Gupta](https://github.com/utkarsh2709)
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
