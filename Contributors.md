@@ -1,6 +1,6 @@
 # Contributors
 
-
+- [Weverton](https://github.com/wpmag)
 - [Magicianred](https://github.com/Magicianred)
 - [Sawan Khanchi](https://github.com/sawankhanchi)
 -[Anirvan Goswami](https://github.com/Anirvan1)
