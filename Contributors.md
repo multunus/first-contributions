@@ -8958,4 +8958,5 @@ Jeff C.
 - [Cedric Miraflor](https://github.com/CMMiraflor)
 Namit Shah
  - [Ethan Marreel](https://github.com/stropical)
+- [mangkus](https://github.com/mangkus)
  - [ThankGod Kalu](https://github.com/TG-Codes)
