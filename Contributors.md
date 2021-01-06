@@ -70,6 +70,7 @@
 - [Erjon Dervishaj](https://github.com/Erjon95)
 - [Prasath K](https://github.com/Starkultra)
 - [MathProuv](https://github.com/mathprouv)
+- [Domingo Ruiz Arroyo](https://github.com/domingoruiz)
 - [Sai Kishore](https://github.com/shadow-prince)
 - [Orit Hashim](https://github.com/OritHashim)
 - [Barry Foye](https://github.com/BarryFoye)
