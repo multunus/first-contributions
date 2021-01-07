@@ -1,4 +1,6 @@
 # Contributors
+
+- [Michael LeCompte](https://github.com/michaelslec)
 - [nickjvturner](https://github.com/nickjvturner)
 - [ArunBalaji R](https://github.com/ArunBalajiR)
 - [Weiren Lan](https://github.com/MIBlue119/)
@@ -4332,8 +4334,7 @@
 - Chelsae Taylor
 - [Jody Eggleston](https://github.com/jmeggles)
 - celia
-- A.J.Fox (https://github.com/A-J-Fox)
--[Amar Imamovic](https://github.com/MetaMan13)
+- A.J.Fox (https://github.com/A-J-Fox) -[Amar Imamovic](https://github.com/MetaMan13)
 - Leszek
 - Phillip
 - [SmileInYourFace](https://github.com/SmileInYourFace)
@@ -8947,7 +8948,7 @@
 - [Abdulla Jaber]
 - [Marcelo Lanzarotti](https://github.com/marcelitus)
 - [Samuel Johnson R](https://github.com/SamuelJohnson01997)
-Jeff C.
+  Jeff C.
 - [Filip lenaerts](https://github.com/filiplenaerts)
 - [Emre Can Satık](https://github.com/emrecanstk)
 - [Shiqi Chang](https://github.com/shiqichang)
@@ -8957,6 +8958,7 @@ Jeff C.
 - [Bruno Alves Lourenço] (https://github.com/BrunoAlou)
 - [Anton Anikin] (https://github.com/dirdex)
 - [Cedric Miraflor](https://github.com/CMMiraflor)
-Namit Shah
- - [Ethan Marreel](https://github.com/stropical)
- - [ThankGod Kalu](https://github.com/TG-Codes)
+  Namit Shah
+- [Ethan Marreel](https://github.com/stropical)
+- [ThankGod Kalu](https://github.com/TG-Codes)
+
