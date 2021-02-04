@@ -1,5 +1,5 @@
 	# Contributors
-
+- Valerie(https://github.com/ellkrauze)
 - Noah Olono
 - [Ritik Dutta](https://github.com/ritikdutta)
 - Dvir Berlo
