@@ -136,6 +136,7 @@
 - [Charles Wong] (https://github.com/charleswong2020)
 - [Brandon Roberts] (https://github.com/brobert8)
 - Ceylan
+- [Cynthia Iradukunda](https://github.com/ciradu2204)
 - [Hannah Campbell](https://github.com/hannahckc)
 - [Caroline Kistler](https://github.com/carolinekistler)
 - [Cesar Valdez Jacinto](https://github.com/CesarVJ)
