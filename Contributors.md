@@ -50,6 +50,7 @@
 - Peter Galvan
 - Mohammad Murtaza
 - [Rishabh Sanjay](https://github.com/Rishabh261998)
+- [Vinayak Joshi](https://github.com/v007rj)  
 - [Ridwan Bin Sarwar](https://github.com/xenon-r)
 - Sahadat Hossain (https://github.com/shahincsejnu)
 - Liv Hampshire
@@ -9588,3 +9589,4 @@ Jiawen Yang
 - Enlightenment
 - [Carlos Lira](http://github.com/carloscerlira)
 - [Bryan Ho](https://github.com/bryanccho)
+- 
