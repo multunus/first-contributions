@@ -1,5 +1,5 @@
 ﻿# Contributors
-
+- [Collin Marando](https://github.com/snippledizzle)
 - [Thiago Oliveira](https://github.com/tgwow)
 - [Arjun R](https://github.com/arjun-prs)
 - Nishant Shingate
