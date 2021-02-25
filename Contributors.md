@@ -87,6 +87,7 @@ Alex Ilyin (https://github.com/ilyin0)
 - [Alice Phan](https://github.com/nphan03) 
 - [Kshitij Nath](https://github.com/kshitij-18)
 - Jona Stevenson
+- Minji Cho
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
 - [Frank Schmidtner](https://github.com/littlelordy)
 - [Benjamin Dangl](https://github.com/benicamera)
