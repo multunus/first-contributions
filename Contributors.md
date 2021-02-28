@@ -3,6 +3,7 @@
 - [Jordan Mellor](https://github.com/jlm222)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
 - [Mohmed Ishak](https://github.com/ishakmohmed)
+- [Grace Jeong](https://github.com/JeongHaeun3263)
 - [Mateus kawazoe](https://github.com/MateusKawazoe)
 - [Daniel H.](https://https://github.com/kiwiCodes-s)
 - [Zsolt Kebel](https://github.com/zsoltkebel)
@@ -28,7 +29,7 @@
 - Marcin Maruszak https://github.com/MarcinMaruszak/
 - sbenav
 - Marcin Maruszak
-- [Sakun Rathnayaka] [https://github.com/sakun9526]  
+- [Sakun Rathnayaka] [https://github.com/sakun9526]
 - [Aya Elsackaan](https://github.com/AyaElsackaan)
 - [Yolanda Haynes](https://github.com/YolandaHaynes)
 - [yatu360](https://github.com/yatu360/)
@@ -164,7 +165,7 @@
 - [Gustavo Valencia](https://github.com/GustavoMiguelValencia)
 - [Raman Thakur](https://github.com/raman-thakur)
 - [Manas Rawat](https://github.com/importlogic)
-= [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
+  = [Perikila Chaitanya Kumar](https://github.com/chaitanya-perikila)
 - [Ramanpreet Singh](https://github.com/raman5911)
 - [Jongie Oaquiera](https://github.com/joaquiera)
 - [Version0Chiro](https://github.com/version0chiro)
