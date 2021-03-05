@@ -68,6 +68,7 @@
 - [Rohan Deshpande](https://github.com/RohanDeshpande1998)
 - Raymond Smith
 - Saurabh Shetty
+- [Alessandro Antoncecchi](https://github.com/Niekos1289)
 - [Shayla Luong](https://github.com/nluong1021)
 - [leovct](https://github.com/leovct/)
 - [Traders Dream](https://t.me/TheTradersDream)
