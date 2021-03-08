@@ -49,6 +49,7 @@
 - [Arthur Redmond](https://github.com/ArthurRedmond)
 - [Alexandr Alibekov](https://github.com/RedBull4)
   [Aleksandar Stancevic](https://github.com/AleksandarStancevic)
+  [Giovanni Rufino](https://github.com/Pjackbar)
 - Nishant Shingate
 - Darshan Aravind (https://github.com/darsh97)
 - [Arif Mamon] (https://github.com/arifmamon)
@@ -9953,7 +9954,7 @@
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
-- [Grant Davis] 
+- [Grant Davis]
 - [Bryan Ho](https://github.com/bryanccho)
 - [Abhishek Anand :smile:](https://www.linkedin.com/in/abhishek-anand-a3446a196/)
 - [Bhanuprakash :smile::smile:](https://www.linkedin.com/in/bhanu-prakash-617757206/)
