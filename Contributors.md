@@ -15,6 +15,7 @@
 - [raavann](https://github.com/raavann)
 - [Ajeet Kumar](https://github.com/AjeetChaurasia934)
 - [Kundan kumar gupta](https://github.com/kundan108)
+- [Ajeet Chaurasia](https://github.com/Akumar312)
 - [Ben Hurworth](https://github.com/BHurworth)
 - [Patrick Franz](https://github.com/PatrickFranz)
 - [Saurabh Kumar Jha](https://github.com/saurabhcodes25)
