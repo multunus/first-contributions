@@ -41,6 +41,7 @@
 - [Chandrakant Pal] (https://github.com/ChandrakantPal)
 - [João Victor](https://github.com/joaovictor3g)
 - [Scott Pettyjohn] (https://github.com/scottpettyjohn)
+- [Krati Agrawal] (https://github.com/kraticodes)
 - [Theddy Luna] (https://github.com/tluna) ⊂(◉‿◉)つ
 - [Atishay Jain] (https://github.com/atishayzn)
 - [Shah Fahad](https://github.com/shahfahad746)
