@@ -293,6 +293,8 @@
 - Jeremy
 - Trise Ne
 - [Vikrant]
+-[Enrique Bascur]
+(https://github.com/etbascur)
 - [Diego Plata](https://github.com/DPLATA)
 - [Edinson Requena](https://github.com/edinsonrequena)
 - [Neeraj Bhatt](https://github.com/neeraj1bh)
