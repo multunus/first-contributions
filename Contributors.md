@@ -10472,5 +10472,6 @@ Marica Marian
 - [Robin Mark Oscar Gill](https://github.com/gillocodes1)
 - [Dan Vidoni](https://github.com/dan-vidoni)
 - [CHxCOOH](https://github.com/CHxCOOH)
+- [Murphy Nzali](https://github.com/murphy-n)
 - [adilshehzad786](https://github.com/adilshehzad786)
 - [ppeloton] [ppeloton]
