@@ -56,6 +56,7 @@
 - John John
 - Prithvi
 - EternalBlu
+- [Mansi Singh](https://github.com/RyuFeng)
 -VidishaTindolia
 -Dev Kumar(https://github.com/techydev)
 - SH Park
@@ -10462,3 +10463,4 @@ https://github.com/franzk
 - [Robin Mark Oscar Gill](https://github.com/gillocodes1)
 - [Dan Vidoni](https://github.com/dan-vidoni)
 - [CHxCOOH](https://github.com/CHxCOOH)
+
