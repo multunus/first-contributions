@@ -10444,6 +10444,7 @@ Marica Marian
 - [mollinaca](https://github.com/mollinaca)
 - [bhavesh](https://github.com/BhanushaliBhavesh)
 - [San Askaruly](https://github.com/tuttelikz)
+- [Puya Goodarzi](https://github.com/PuyaGoodarzi)
 - [iWonder118](https://github.com/iWonder118)🐧
 - [Hai Pham](https://github.com/haipnh)
 - [Irakli Khizanishvili](https://github.com/iraklik)
