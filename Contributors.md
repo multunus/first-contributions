@@ -110,6 +110,7 @@
 - [Karanchadha] (https://github.com/KaranChadha10)
 - [Godwin Daniel] (https://github.com/Godwindaniel10)
 - [Jianyong Zhu] (https://github.com/jyong-zhu)
+- [Ken Leung] (https://github.com/kenkcl)
 - [Gene Lam] (https://github.com/genelam26)
 - [Lester Ho] (https://github.com/lesterhjy)
 - [Nitesh Gupta]
