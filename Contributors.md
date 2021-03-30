@@ -1,5 +1,5 @@
 # Contributors
-
+- [Rajat khanna506] (https://github.com/rajatkhanna506)
 - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
