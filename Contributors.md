@@ -7801,6 +7801,7 @@
 - [Alex Major](https://github.com/alexmajor)
 - [Avantikaa](https://github.com/Avantikaa)
 - [qiaojun](https://github.com/qiaojun2016)
+- [Haruki Niwa](https://github.com/nha6ki)
 - [alizeh12](https://github.com/alizeh12)
 - [jinhokong](https://github.com/jinhokong)
 - [Michael Morrow](https://github.com/mamorrow1957)
