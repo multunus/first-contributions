@@ -6,7 +6,7 @@ Roneal Denila
 - [Abhishek Kumar](https://github.com/abhi7275)
 - [CleanMachine1](https://github.com/CleanMachine1)x
 - [Vasco Ramos] (https://github.com/RamosCSV/)
-- [Parvesh Barak](https://github.com/parveshbarak)
+- [Vikas Gupta](https://github.com/dev-vikasgupta) - [Parvesh Barak](https://github.com/parveshbarak)
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 	[hmdz](https://github.com/hmdz105)
