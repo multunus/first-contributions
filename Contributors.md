@@ -1,5 +1,5 @@
 # Contributors
-
+- [Paul Chicos](https://github.com/paulchicos43)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
