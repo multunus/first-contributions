@@ -702,6 +702,7 @@
 - Adam Blaylock
 - [Leopold-V](https://github.com/Leopold-V)
 - [Sai Priya](https://github.com/Saipriyavadisina)
+- [Sepehr Soltani](https://github.com/sepisoltani)
 - [Charan Vasu](https://github.com/charan1973)
 - [Tirta Adi G](https://github.com/tirtavium)
 - Daniel Danaee
