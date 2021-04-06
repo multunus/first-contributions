@@ -1,5 +1,7 @@
 # Contributors
 
+
+- SH Par- [Scott Pettyjohn] (https://github.com/scottpettyjohn)
 - [Ravindu Miyuranga](https://github.com/ravindugm)
 -.[Joonmyung Jung] (https://github.com/joonmyung)
 - [Kim Seon Woo](https://github.com/seonwoo960000)
@@ -10534,6 +10536,7 @@ Marica Marian
 - [Leo4zhou](https://github.com/Leo4zhou)
 - [RenatoAWK](https://github.com/RenatoAwk)
 - [BraveOlivia](https://github.com/BraveOlivia)
+- [Ankit Kaura](https://github.com/AnkitKaura) 
 - [Prabal Pathak](https://github.com/prabal01pathak)
 - [TakahitoHimi](https://github.com/TakahiroHimi)
 - [Jorge] (https://github.com/jadromero)
