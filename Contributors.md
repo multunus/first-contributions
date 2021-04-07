@@ -23,7 +23,7 @@
 - [Aqib Ahmed](https://github.com/aqib-a99)
 - [William Zhang Sam](https://github.com/willzs03)
 - [Ashish Bhatt](https://github.com/ashofphoenix)
-- [Frederick Williams](https://github.com/Fredz1)
+- [Anish]
 - [Jaden Zaleski](https://github.com/jadenzaleski)
 - [Ijaz Azam](https://github.com/ijazazam18)
 - [Corey Thuro](https://github.com/CoreyThuro)
