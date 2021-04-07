@@ -32,6 +32,7 @@
 - [Stefan Kleinhans] (https://github.com/Stefan043)
 - [Sugam Jaiswal] (https://github.com/jaissugam)
 - [Harper Moon]
+- [Sanchit Bajaj](https://github.com/Sanchitbajaj02)
 - [Marie Creel](https://github.com/ncreel)
 - [Tasha Danner](https://github.com/tashadanner)
 - [Amanuel Odicho] (https://github.com/odicho)

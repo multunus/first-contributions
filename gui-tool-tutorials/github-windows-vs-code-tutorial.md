@@ -5,7 +5,7 @@
 
 # First Contributions
 
-| <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="40"> | Visual Studio Code |
+| <img alt="Visual Studio Code" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fzarkom.net%2Ftutorials%2Fimages%2Fvscode-win%2F000-vscode-logo.png&f=1&nofb=1" width="40"> | Visual Studio Code |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ |
 
 
@@ -15,7 +15,7 @@ Reading articles & watching tutorials can help, but what comes better than actua
 
 If you don't have Visual Studio Code on your machine, [install it](https://code.visualstudio.com/download).
 
-**Notice:** This tutorial was made using Visual Studio Code (Version 1.27.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
+**Notice:** This tutorial was made using Visual Studio Code (Version 1.53.2) on a Windows 10 machine. Later in this tutorial we will make use of some keyboard shortcuts. These may differ on other operating systems (macOS/Linux).
 
 ## Fork this repository
 
@@ -111,6 +111,7 @@ Celebrate your contribution and share it with your friends and followers by goin
 
 You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
+You can also install the extension called [Git lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) to get more features like tracking the branch in tree hierarchy, maintain record of stashes, branches, remotes, etc.
 
 ### [Additional material](../additional-material/git_workflow_scenarios/additional-material.md)
 
