@@ -20,6 +20,7 @@
 - [riksama](https://github.com/riksama)
 - [Ansh Kashyap](https://github.com/anshrk)
 -	[hmdz](https://github.com/hmdz105)
+- Fram Virjee
 - [Raghav Mehrotra](https://github.com/raghav-max)
 - [Wallison Silva](https://github.com/WallisonHenrique)
 - [Brunda B R]
@@ -293,6 +294,7 @@
 - [Syaiful Anwar Husen Lubis](https://github.com/syaifulhuseinnn)
 - [Juan A Roig](https://github.com/JuanARoig)
 - [David Hall](https://github.com/davidrhallartificialeducation/)
+- Fram Virjee
 - [Alec Campbell](https://github.com/fu4303)
 - [tonchan1216](https://github.com/tonchan1216)
 - [Kyle Lambert](https://github.com/kylelambert001)
