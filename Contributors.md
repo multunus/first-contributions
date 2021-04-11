@@ -1,5 +1,5 @@
 # Contributors
-
+- [Bowie](https://github.com/Bowie-Heng)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
