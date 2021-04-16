@@ -2,7 +2,7 @@
 
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
-
+-[Genaro Salinas](https://github.com/GenaroVS)
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Aashaya Aryal](https://github.com/karuifeather)
 - [Lorenzo Evans](https://github.com/SpyroL7)
