@@ -3,7 +3,6 @@
 -[Didier Munezero](https://github.com/didiermunezero)
 -[Lakshman Kambam](https://github.com/klakshman318)
 -[Aman Verma](https://github.com/amnvrma)
-
 - [Aadarsh Goyal](https://github.com/aadarsh-11)
 - [Blaine Young](github.com/blaine137)
 - [Aashaya Aryal](https://github.com/karuifeather)
@@ -11,6 +10,7 @@
 - [Abidine Talebna](https://github.com/Talebna)
 - [Unmesh Padhye](https://github.com/UnmeshPadhye)
 - [Giulia Cajati](https://github.com/GiuliaCajati)
+- [Steve](https://github.com/kcmodev)
 - [Mohsin Ali](https://github.com/onelifeodyssey)
 - [Ahmad Abutalib](https://github.com/abutalibsh)
 - [Sampath Rachumallu] (https://github.com/sampath97)
