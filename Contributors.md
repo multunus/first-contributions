@@ -40,7 +40,6 @@
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - Victor Mendez (https://github.com/VMMF)
 - [Srajan Seth](https://github.com/srajanseth84)
-  [Wendell Hatcher](https://github.com/whatcher1074)
 - [Shreshtha Gupta](https://github.com/shrey-101)
 - [Alfidaa Alkhan](https://github.com/Alfidaalk)
 - [Eztao](https://github.com/eztao)
