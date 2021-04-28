@@ -1,5 +1,6 @@
 # Contributors
 
+
 -[Tomaz Mazej](https://github.com/TomazMazej)
 -[Dawn Kelly](https://github.com/dawnkelly09)
 -[Chirag Madaan](https://github.com/chirag-madaan)
@@ -45,6 +46,7 @@ Gavriel Frant
 - [Daniel Armas](https://github.com/daniel692a)
 - [Nathan Sindres](https://github.com/nasdev-cmd)
 - [Arda Berrun Karaca](https://github.com/ardaberrun)
+- [DikshaSingh](https://github.com/Diksha2307)
 - [Abhi Singh](https://github.com/abhi2810)
 - [Christian Rua](https://github.com/christianrua)
 - [Punith P](https://github.com/darcangell)
