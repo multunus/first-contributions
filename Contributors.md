@@ -1,4 +1,6 @@
 ﻿# Contributors
+
+- [Jenny Chin](https://github.com/ChinJenny)
 -[]()
 -[Smarth Mangla](https://github.com/smarthmangla)
 -[xMdb](https://github.com/xMdb)
