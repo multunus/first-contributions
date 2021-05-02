@@ -1627,7 +1627,7 @@ Berliana
 - [Mayorbcode](https://github.com/mayorbcode)
 - [Daniel Benzion](https://github.com/daniel-benzion)
 - [Ruan Kang](https://github.com/RuanKang)
-- [RAJ](https://github.com/verreauxblack)
+- [RAJ (@verreauxblack)](https://github.com/verreauxblack)
 - [Mayur Shingrakhiya](https://github.com/mkshingrakhiya)
 - [Jessica Chen](https://github.com/jessicreative)
 - [simon-ra](https://github.com/simon-ra)
