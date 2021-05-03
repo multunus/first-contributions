@@ -4892,7 +4892,8 @@ Jairo Martinez
 - first test
 - [Julia](https://github.com/juliawithers)
 - [Hamed Ghoochanian](https://github.com/HamedGhoochanian)
-- Brendan Kelly
+- Brendan Kelly1 conflict ￼Prev  ￼Next 
+
 - [Catherine Nguyen](https://github.com/catherinevn)
 - [Chris E](https://github.com/MrChrisE)
 - [Raksha Navale](https://github.com/rakshanavale24092000)
@@ -4919,7 +4920,8 @@ Jairo Martinez
 - [Chris Ellis](https://github.com/pineappleslikei)
 - [rroyson](https://github.com/rroyson)
 - [Parishrut Kushwaha](https://github.com/parish09)
-- [Shivam Singla](https://github.com/shivam7374)
+- [Shivam Singla](https://github.com/shi1 conflict ￼Prev  ￼Next 
+vam7374)
 - [Chethan Bhat](https://github.com/chethanbhat)
 - [harkamwaljeet](https://github.com/harkamwaljeet)
 - [Saurabh Bhansali](https://github.com/iSBhansali)
@@ -5041,8 +5043,10 @@ Jairo Martinez
 - [Peppah Jackk](https://github.com/peppahjackk)
 - [Tarang Singhal](https://github.com/Tarang-singhal)
 - [Akiraheen](https://github.com/akiraheen)
-- [Jivthesh M R](https://github.com/jivthesh)
-- [Ashutosh Raman](https://github.com/ashutosh0709)
+- [Jivthesh M R](https://github.com/jiv1 conflict ￼Prev  ￼Next 
+thesh)
+- [Ashutosh Raman](https://github.com/a1 conflict ￼Prev  ￼Next 
+shutosh0709)
 - [Narasimha Prasanna HN](https://github.com/Narasimha1997)
 - [Barry Kelly](https://github.com/grumhub)
 - [Dan](https://github.com/dan-mba)
@@ -5075,7 +5079,8 @@ Jairo Martinez
 - [JOnathan White](https://github.com/jonathancwhite)
 - [Humphrey Oluchi Amah](https://github.com/Luchihumphrey)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
-- [Shawn Long](https://github.com/shawnlong636)
+- [Shawn Long](https://github.com/shawn1 conflict ￼Prev  ￼Next 
+long636)
 - [Yatharth Taneja](https://github.com/yatharthtaneja)
 - [Zachary King](https://github.com/lax0248917)
 - [Akash Ilangovan](https://github.com/akashilangovan)
@@ -11033,7 +11038,9 @@ Marica Marian
 - [Shumorkin Ilya](https://github.com/shumorkiniv)
 - [scfede](https://github.com/scfede)
 - [iamtbc](https://github.com/iamtbc)
+- [Anshu Sinha](https://github.com/Sinha199)
 - [ran](https://github.com/skyan1278)
-[Jack Mulligan] (https://github.com/jackmulligan-ire)
-[Yusuf Adel](https://yusufadell.github.io)
+- [Jack Mulligan] (https://github.com/jackmulligan-ire)
+- [Yusuf Adel](https://yusufadell.github.io)
 - [Jose Pardo](https://github.com/sevijey)
+
