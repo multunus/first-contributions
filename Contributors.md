@@ -99,6 +99,7 @@ Gavriel Frant
 - [Adrian Marquis] (https://github.com/schism578)
 - [Poojan Patel] (https://github.com/Berlin-34)
 - Roneal Denila
+- [Jason Araya Solano](https://github.com/jason8496as)
 - [Roberto Antoniello](https://github.com/mastercruelty)
 - [Ajay Varma](https://github.com/ajay28varma)
 - Victor Mendez (https://github.com/VMMF)
