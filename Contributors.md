@@ -34,7 +34,7 @@
 -[Nithya Shabari Kannan](https://github.com/nithyashabarikannan)
 -[Karun Jain](https://github.com/jainkarun8)
 Gavriel Frant
-
+- [Dhruv Jimulia](https://github.com/dhruvjimulia-sys)
 - [Nicolis Yuvienco](https://github.com/nicyuvi)
 -[Madhuri reddy](https://github.com/Madhurireddy1)
 - [John Louise](https://github.com/john)
