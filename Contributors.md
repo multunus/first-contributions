@@ -14,7 +14,7 @@
 -[Rohan Rawat ](https://github.com/itsron)
 -[Raman_Karki](https://github.com/ramankarki)
 -[Manish_rawat](https://github.com/R11manish)
-Akshit Agarwal
+Sanchit Narang
 -[Aman Verma](https://github.com/amanopia)
 -[Tom Magnitis](https://github.com/magnitis)
 -[Raja P](https://github.com/raja-softwareengineer)
