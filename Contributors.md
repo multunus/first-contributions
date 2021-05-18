@@ -1,6 +1,7 @@
 ﻿# Contributors
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 Pashyant Srivastava
+
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Pashyant](https://github.com/Pashyant)
@@ -22,12 +23,13 @@ Pashyant Srivastava
 -[Mike Wazowsaki]
 -[Nitin Gupta](https://github.com/nitingpt000)
 -[Sebastian Seician](https://github.com/cbastn)
+-[Sarthak](https://github.com/sarthak2807)
 -[Mustafa Kamel Waly](https://github.com/Mustafa-Kamel)
 -[Rohan Rawat ](https://github.com/itsron)
 -[Raman_Karki](https://github.com/ramankarki)
 -[Manish_rawat](https://github.com/R11manish)
 -[Rajeev Dandu](https://github.com/Dandu-Rajeev)
-Akshit Agarwal
+-Akshit Agarwal
 -[Basudev Tyagi](https://github.com/BasuDevTyagi10)
 -[Sravanitha Gatti](https://github.com/SravanithaGatti)
 -[Aman Verma](https://github.com/amanopia)
