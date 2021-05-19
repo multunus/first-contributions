@@ -6,6 +6,7 @@ Pashyant Srivastava
 - [Bartu Bisgin] (https://github.com/bartubisgin)
 - [Jay Gala](https://github.com/jaygala223)
 - [Pashyant](https://github.com/Pashyant)
+- [mastak-ua](https://github.com/mastak-ua)
 - [Nitish Vaishnav](https://github.com/nitishv2017)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
