@@ -1,7 +1,7 @@
 ﻿# Contributors
-[Adam McCartney](https://github.com/adammccartney)
-[Aryan Srivastava] (https://github.com/Aryan-Srivastava)
-Pashyant Srivastava
+
+- [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
+- [Aniruddha Bagal] (https://github.com/aniruddhabagal)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Rutwij Patel]
 - [Vedant Oza](https://github.com/Vedant-Jayesh-Oza)
