@@ -76,6 +76,7 @@ Akshit Agarwal
 -[DeviatorsLegacy](https://github.com/deviatorslegacy)
 -[Muhammed Salih Gumus](https://github.com/sudanmerinosu)
 -[Corey Hamren]
+-[Rahul Roy](https://github.com/Rahul6918
 -[Maher Gzam](https://github.com/mgzam)
 -[Deepak](https://github.com/DKdEviL)
 -[Michael Ameyaw](https://github.com/mkojoa)
