@@ -37,6 +37,7 @@ Pashyant Srivastava
 -[Luke Kellett](https://github.com/NitroTears)
 -[Dijo T Mathews](https://github.com/dijotmathews)
 - [Rejwan Islam](https://github.com/RIR360)
+- [Zhiheng (Eric) Xu](https://github.com/Imericxu)
 -[Rajkumar Panwar]
 -[Amisha Aggarwal](https://github.com/amishaagg)
 -[Loukik Bhangale](https://github.com/loukikstudent)
