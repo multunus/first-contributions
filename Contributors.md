@@ -10891,6 +10891,7 @@ Yury Smyslov
 - [Rogério Brum Hermany](https://github.com/brummm)
 - [Nabakanta Deuri](https://github.com/ay3ay3)
 - [Shveta]
+- [Kiet Truong](https://github.com/mankiet208)
 - [Fernanda Provasi](https://github.com/Feprovasi)
 - [sheng812](https://github.com/sheng812)
 - [Quang Nguyen](https://github.com/quang-sudo)
@@ -11074,6 +11075,7 @@ Yury Smyslov
 - [mathkruger](https://github.com/mathkruger)
 - [Isa AlDoseri](https://github.com/isados)
 - [Vittorio Rinaldo](https://github.com/rinaldovittorio)
+- [Martin Majorov](https://github.com/guitdev86/)
 - [Martin Majorov](https://github.com/guitdev86/)
 - [Jonas Beduschi](https://github.com/JonasBeduschi)
 - [Tyler Campbell](https://github.com/t36campbell)
