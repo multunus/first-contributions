@@ -1327,6 +1327,7 @@ Aman S
 - [SainathPoojary](https://github.com/SainathPoojary)
 - [Yulypso - Thierry Khamphousone](https://github.com/Yulypso)
 - [Elle Ryba](https://github.com/elleryba)
+- [Shane Ray](https://github.com/shaneray419)
 - [Harshita_Nag](https://github.com/nagharshita16)
 - [Gustavinho](https://github.com/nGustavin)
 - [Zach Sorenson](https://github.com/ZSorenson1)
