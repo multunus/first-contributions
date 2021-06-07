@@ -42,7 +42,7 @@ ROHAN KUMAR PANDEY
 SparkBuster
 Ujjwal Singh just landed here
 [Diksha Nasa] (https://github.com/dikshanasa)
-[Harmeet Singh] (https://github.com/harmeetsinghmittu)
+- [Harmeet Singh] (https://github.com/harmeetsinghmittu)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
