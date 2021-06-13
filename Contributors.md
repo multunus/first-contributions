@@ -1,6 +1,9 @@
 # Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [NHA](https://github.com/the-nine-creation)
+- [AYN]
+- [NYA]
+- [AA]
 - [FourLineCode](https://github.com/FourLineCode)
 - [Prasanna Tandukar](https://github.com/PrasannaTandukar)
 - [Moon-Seng](https://github.com/Moon-Seng)
