@@ -137,7 +137,7 @@ Vasundhara
 Prakhar
 - [Rupak Thapa Magar](https://github.com/RUPAAK)
 Chaste Akomoize
-[Cassian Kahema](https://github.com/caykay)
+- [Cassian Kahema](https://github.com/caykay)
 Santosh D J 
 Animesh Kumar
 - [Joel Infeld](https://github.com/joelinfeld)
