@@ -1,6 +1,6 @@
 # Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
-- [maeky1986] (https://github.com/maeky1986)
+- [maeky1986](https://github.com/maeky1986)
 - [NHA](https://github.com/the-nine-creation)
 - [Nathn-G](https://github.com/Nathn-G)
 - [FourLineCode](https://github.com/FourLineCode)
