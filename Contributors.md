@@ -202,6 +202,7 @@ Devanshi Mittal
 - [Edil Mukambetov](https://github.com/Ed8L)
 - [Mohit Chakraverty](https://github.com/mohitchakraverty)
 - [Jeong Shin](https://github.com/jshinnn)
+- [Deepak Mohnani](https://github.com/saymedgm)
 - [Rutwij Patel]
 - [Roddy Ackerman](https://github.com/Roddy-Ackerman)
 - [zha](https://github.com/Zwe-HZ)
