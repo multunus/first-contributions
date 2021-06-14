@@ -41,6 +41,7 @@
 - [Sis Aung](https://github.com/sisaung)
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
+- [Nyareh David](https://github.com/NyarehD)
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [Samir Mishra](https://github.com/smir45)
 - [winsalva](https://github.com/winsalva)
