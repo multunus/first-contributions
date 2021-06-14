@@ -63,6 +63,7 @@
 - -[Yash Chaudhari](https://github.com/Yash-C-330)
 - Gabija
 - Ccode-lang
+
 - Jino Rohit
 - Irving Viveros
 - [Eduardo Rerick](https://github.com/eduardorerick)
@@ -88,7 +89,9 @@
 - [Alexandro C.W.](https://github.com/alexandrocw)
 [ÖMER IŞILDAK](https://github.com/omerisildak)
 [UmbreonShapeshifter](https://github.com/UmbreonShapeshifter)
-[Sachin Hegde](https://github.com/sachinhegde328)
+[
+
+Hegde](https://github.com/sachinhegde328)
 [Harshpreet Kaur](https://github.com/harshpreet0508)
 [Ian Cossentino](https://github.com/cossentino)
 [Muhammad Iqbal Tawakal](https://github.com/200202iqbal)
