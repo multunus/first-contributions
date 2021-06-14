@@ -499,6 +499,7 @@ elkhechafi zakaria
 - [John Louise](https://github.com/john)
 - [SDS1337](https://github.com/SDS1337)
 - [Yu](https://github.com/YUCXY)
+- [Damilola Ojo](https://github.com/oj-damilola)
 - [Wilson Junior](https://github.com/wilsonjuniordev)
 - [Sandeep Maurya](https://github.com/kmsandeep)
 - [Shyam Sundar N R](https://github/Shyam-NR)
