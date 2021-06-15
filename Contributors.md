@@ -1,4 +1,4 @@
-﻿# Contributors
+# Contributors
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Kozak](https://github.com/kozak325)
@@ -4412,6 +4412,7 @@ Jairo Martinez
 - [Kiran S Baliga](https://github.com/kiransbaliga)
 - [Christian Bueno](https://github.com/christian-bueno)
 - [Harsha Puvvada](https://github.com/puvvadaharsha)
+- [Drikus van der Walt](https://github.com/gettinDrikkieWithIt)
 - [Nick Gumbs]
 - [Michael]
 - [Sujatha Mohan sujathamlak]
@@ -12075,3 +12076,5 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [usersblock](https://github.com/usersblock)
 - [Petros Papadopoulos](https://github.com/petran123)
 - Leong
+
+
