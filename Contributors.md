@@ -1,4 +1,7 @@
 # Contributors
+- [Waleed ur Rehman](https://github.com/waleedrehman31) :pakistan:
+- [utah239](https://github.com/utah239)
+- [utah239](https://github.com/utah239
 - [VictorZZZZ](https://github.com/VictorZZZZ)
 - [Ksenia](https://github.com/odnaks)
 - [Kozak](https://github.com/kozak325)
@@ -29,6 +32,7 @@
 - [Gabriel Drutu](https://github.com/realDevDare)
 - [Akshat Singh](https://github.com/akshatrksingh)
 - [Ekeopre Beredugo](https://github.com/Thebuilderekes)
+
 - [Aukse Sireikaite] (https://github.com/auksesir)
 - [Thet Paing Soe] (https://github.com/thetpaing-soe)
 - [Atham Vahith](https://github.com/theRawrrr) 🇮🇳
@@ -51,6 +55,7 @@
 - [lamarch](https://github.com/lamarch) 🟦⬜🟥
 - [Samir Mishra](https://github.com/smir45)
 - [winsalva](https://github.com/winsalva)
+- [Suhaib Hamdallah](https://github.com/suhaibhamdallah)
 - [HlaingMinThan](https://github.com/HlaingMinThan)
 - [Héctor García Borrego](https://github.com/HectorBorrego17)
 - [Slobodan Bajic](https://github.com/slbdnbajic)
@@ -117,7 +122,7 @@ daltva
 [Denton Sun](https://github.com/Dentsun)
 Aadiya Agrawal
 Roger Liu
-[Shubham Malpani] (https://github.com/SHUBH778)
+[Shubham Malpani](https://github.com/SHUBH778)
 [Laura Pasqualone](https://github.com/lpasqualone)
 [bhavna nagar](https://github.com/bhavna-nagar)
 Joe Fagan 2nd attempt
@@ -128,14 +133,16 @@ ROHAN KUMAR PANDEY
 [Adnan Shah Muzavor]
 SparkBuster
 Ujjwal Singh just landed here
-[Diksha Nasa] (https://github.com/dikshanasa)
-[Prudhvi raj] (http://github.com/prudhvirajstark/)
-[Harmeet Singh] (https://github.com/harmeetsinghmittu)
+[Diksha Nasa](https://github.com/dikshanasa)
+[Prudhvi raj](http://github.com/prudhvirajstark/)
+[Harmeet Singh](https://github.com/harmeetsinghmittu)
 [Ankit Yadav](https://github.com/ankitcr7-afk)
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
 [Nina Chen](https://github.com/NinaC-boop)
+[Aryan Srivastava](https://github.com/Aryan-Srivastava)
+- [Rohan-Singh](https://github.com/rohan-singh987/)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 [Ayan Gupta] (https://github.com/Ayan-thecodeking)
 - [Rohan-Singh] (https://github.com/rohan-singh987/)
