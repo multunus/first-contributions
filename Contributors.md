@@ -839,7 +839,7 @@ elkhechafi zakaria
 - [Juan Luis Muñoz Ioannidis] (https://github.com/design3d-blender)
 - [Ashwin Kumar](https://github.com/ashwinexe)
 - [Madhav Sharma](https://github.com/madhavjk)
-- [Vejay Drepaul](https://github.com/VejayDrepaul)
+- [Sai Teja Kavuru](https://github.com/saitejakavuru)
 - [Adam Heeps] (https://github.com/mr-jackpot)
 - [Guy Cherubin] (https://github.com/ngchrbn)
 - [SavageUnicorn](https://github.com/SavageUnicorn)
