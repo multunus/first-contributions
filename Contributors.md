@@ -163,6 +163,7 @@ Ujjwal Singh just landed here
  - [Fabricio Pashaj](https://github.com/fabriciopashaj)
 [Adam McCartney](https://github.com/adammccartney)
 [Harsh Singla](https://github.com/hs2804)
+[Vincent Zhang](https://github.com/bootsareme)
 [Nina Chen](https://github.com/NinaC-boop)
 [Aryan Srivastava] (https://github.com/Aryan-Srivastava)
 [Ayan Gupta] (https://github.com/Ayan-thecodeking)
@@ -1746,6 +1747,7 @@ Aman S
 - [Yashwanth Raj](https://github.com/yr7000)
 - [b3z](https://github.com/b3z)
 - [Yash Parekh](https://github.com/yash20010)
+
 - [Natasha Drost](https://github.com/nata4471)
 - [Hayden Dachel](https://github.com/hjdachel)
 - [NaNa Mathis](https://github.com/n-mathis)
