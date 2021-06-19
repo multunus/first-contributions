@@ -35,7 +35,7 @@
 - [Vaughn1234](https://github.com/Vaughn1234)
 - [Kartikeya Bhatt] (https://github.com/karitkeya-bhatt)
 -Tarun Mishra
--[KalidasVijayBhak](https://github.com/KalidasVijaybhak)
+-[Pann Myat Khaing](https://github.com/PannMyatKhaing)
 -[MMS](https://github.com/MoeMoeSan)
 - [Thiha Tine Zaw](https://github.com/thiha-tine-zaw) 
 [Thin Nandar](https://github.com/Thinnandar) 
