@@ -6546,6 +6546,7 @@ Yury Smyslov
 - [Tarush Goyal](https://github.com/TarushGoyal)
 - [Rishav Jain](https://github.com/rishav4336)
 - [KhadkaBinu](https://github.com/khadkabinay)
+- [Vikram Nithyanandam](https://github.com/nith2001)
 - Stoney96
 - [Hunter Goodreau](https://github.com/ghgoodreau)
 - [Barry Johnson](https://github.com/JamesJohnson11)
