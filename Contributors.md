@@ -971,6 +971,7 @@ elkhechafi zakaria
 - [Abhinav Pathak] (https://github.com/AbhinavXT)
 - [Vincent Achukwu] (https://github.com/VincentAchukwu)
 - [Ekaterina Golovanova] (https://github.com/EkaterinaGolovanova)
+- [Wesam Khalil](https://github.com/WesamKhalil)
 - [Xxgzbd](https://github.com/zhongmz)
 - [Nicholas Pally] (https://github.com/npally)
 - [Isaac Peetoom Heida](https://github.com/PeetoomHeida)
@@ -2900,6 +2901,7 @@ Aman S
 - CHINTAN PATEL
 - Kash D
 - [berkaykarlik](https://github.com/berkaykarlik)
+- [Wesam Khalil](https://github.com/WesamKhalil)
 - [Sharmila Siram](https://github.com/sharmila02)
 - [opunsoars](https://github.com/opunsoars) was here
 - [Amine Raji](https://github.com/aminrj) was here too
