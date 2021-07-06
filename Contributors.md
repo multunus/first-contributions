@@ -334,6 +334,7 @@ Joe Fagan 2nd attempt
 ROHAN KUMAR PANDEY
 [Fatima Tasnim](https://github.com/FatimaTasnim)
 [Adnan Shah Muzavor]
+Sumit Bisht
 SparkBuster
 Ujjwal Singh just landed here
 [Andaleeb Farooq] (https://github.com/cerafinn)
