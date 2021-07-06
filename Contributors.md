@@ -230,6 +230,8 @@ Achal Mukaty
 - [Michael Michael](https://github.com/ntirinigaSr)
 - [Abdul Majid](https://github.com/majidabdulred)
 - [Sis Aung](https://github.com/sisaung)
+- [Sis Aung](https://github.com/sisaung)
+- [Suraj Bhusal] (https://github.com/subhu27)
 - [Damilare Oyediran](https://github.com/ddoyediran)
 - [Gourav Ojha](https://github.com/gouravojha)
 - [Rajneesh-9088](https://github.com/Rajneesh-9088)
