@@ -1585,6 +1585,8 @@ Berliana
 - [Keremalp Durdabak](https://github.com/KeremalpDurdabak)
 - [Alfredo Varela](https://github.com/fikandata) 
 - [Frank Schmidtner](https://github.com/littlelordy)
+- [Francis Knight]
+(https://github.com/francisknight)
 - [Benjamin Dangl](https://github.com/benicamera)
 - PRANAV VYAS
 - [Raman Lamichhane](https://github.com/ramanic)
