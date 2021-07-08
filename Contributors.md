@@ -1,5 +1,5 @@
-	# Contributors
-  [sktht](https://github.com/sktht)
+# Contributors
+- [sktht](https://github.com/sktht)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
 - [mrranger](https://github.com/mrranger)
@@ -12506,3 +12506,4 @@ _ [Ludo Da] (https://github.com/Genos-kun)
 - [LeoNooob](https://github.com/LeoNooob)
 - [Linh Nguyen Nhat](https://github.com/lnn45)
 - [Zhugy08](https://github.com/zhugy08)
+
