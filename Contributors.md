@@ -11,6 +11,7 @@
 - [Kyle Ramsay] (https://github.com/KyRams) 
 - [Nasreddine Yakhou] (https://github.com/nasroykh) 
 - [Guli]
+- [Dongdong Shi](https://github.com/Dongdong-Shi)
 - [Daniel Vasquez](https://github.com/cruzavas)
 - [Chinthakindi Tarun]
 - [SHREE DEVI YADAM](https://github.com/shree-yadam)
@@ -125,6 +126,7 @@ Mohit Bhobariya
 - [djamel-djame](https://github.com/djamel-djame)
 - [supreet-kurdekar](https://github.com/SupreetKurdekar)
 - [Yadu Krishnan Sarathchandran](https://github.com/Yadukrishnan1)
+- Dongdong Shi
 - [Kat Marsteller](https://github.com/kdm423)
 - [Aryan Khera](https://github.com/aryankhera)
 - [Hubert Życiński](https://github.com/Sniqs)
