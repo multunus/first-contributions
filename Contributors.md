@@ -28,6 +28,7 @@ Mohit Bhobariya
 - [Tommy Huang](https://github.com/thuang288)
 - [Evan Scallan](https://github.com/evanjscallan)
 - [Lestly](https://github.com/Lestlyy)
+- [rahul](https://github.com/rahul6975)
 - [saitgulmez](https://github.com/saitgulmez)
 - [HumungusFungus](https://github.com/Humungus-Fungus)
 - [Charly Finos](https://github.com/charlyfinos)
